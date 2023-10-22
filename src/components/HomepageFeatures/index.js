@@ -5,31 +5,31 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/undraw_friends_online_re_r7pq.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Nance gives your community a place to create, share, search, discuss, vote,
+        and seamlessly execute proposals.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Keep Everything in Sync',
+    Svg: require('@site/static/img/undraw_schedule_meeting_52nu.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Keep everyone informed on the latest proposals and votes. Nance
+        makes it easy to keep your community in sync.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Powerful Automations',
+    Svg: require('@site/static/img/undraw_factory_dy-0-a.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Nance automatically moves proposals through your governance process.
+        No more copy-pasting proposal content!
       </>
     ),
   },

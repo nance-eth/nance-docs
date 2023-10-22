@@ -28,3 +28,8 @@
   align-items: center;
   justify-content: center;
 }
+
+article p a {
+  text-decoration: underline;
+  color: #226ec0;
+}

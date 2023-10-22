@@ -1,8 +1,9 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
+sidebar_label: '⇌ Nance'
 ---
 
-# 🧐 What is Nance?
+# What is Nance?
 Nance streamlines your community's governance by integrating with platforms like Discord, Gnosis Safe, Juicebox, and Snapshot Voting. It simplifies message sending, proposal creation, and governance-related financial transactions.
 
 **Nance:** It's a governance integration system that streamlines a community's interactions with platforms like Discord, Gnosis Safe, Juicebox, and Snapshot Voting.
