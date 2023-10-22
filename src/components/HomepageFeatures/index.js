@@ -5,7 +5,6 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_friends_online_re_r7pq.svg').default,
     description: (
       <>
         Nance gives your community a place to create, share, search, discuss, vote,
@@ -15,7 +14,6 @@ const FeatureList = [
   },
   {
     title: 'Keep Everything in Sync',
-    Svg: require('@site/static/img/undraw_schedule_meeting_52nu.svg').default,
     description: (
       <>
         Keep everyone informed on the latest proposals and votes. Nance
@@ -25,7 +23,6 @@ const FeatureList = [
   },
   {
     title: 'Powerful Automations',
-    Svg: require('@site/static/img/undraw_factory_dy-0-a.svg').default,
     description: (
       <>
         Nance automatically moves proposals through your governance process.
@@ -38,9 +35,6 @@ const FeatureList = [
 function Feature({Svg, title, description}) {
   return (
     <div className={clsx('col col--4')}>
-      <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
-      </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
         <p>{description}</p>
