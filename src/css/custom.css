@@ -23,3 +23,13 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+.menu__list {
+  font-size: 0.9rem
+}
+
+@media screen and (max-width: 996px) {
+  .menu__list {
+    font-size: 1.1rem;
+  }
+}

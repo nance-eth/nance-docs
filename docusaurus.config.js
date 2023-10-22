@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Nance Docs',
-  tagline: 'Streamline you governance process',
+  tagline: 'Streamline your governance process',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -50,6 +50,7 @@ const config = {
             'https://github.com/nance-eth/nance-docs/tree/main',
           showLastUpdateTime: true,
           showLastUpdateAuthor: true,
+          sidebarCollapsed: false,
         },
         blog: {
           showReadingTime: true,
@@ -74,7 +75,7 @@ const config = {
         title: 'Nance',
         logo: {
           alt: 'Nance Logo',
-          src: 'img/logo.png',
+          src: 'img/logo.svg',
         },
         items: [
           {
@@ -95,8 +96,12 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Links',
             items: [
+              {
+                label: 'App',
+                to: 'https://nance.app'
+              },
               {
                 label: 'Docs',
                 to: '/docs/intro',
