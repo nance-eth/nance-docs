@@ -1,8 +1,8 @@
 ---
-sidebar_position: 2
+sidebar_position: 4
 ---
 
-# Discussion & Temperature Check
+# Temperature Check
 
 Stay updated with changes in proposals and engage in meaningful discussions on Discord. Check the general sentiment or "temperature" of votes to gauge community feelings before moving a proposal to Snapshot.
 
