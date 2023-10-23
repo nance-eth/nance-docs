@@ -5,9 +5,8 @@ sidebar_label: '🗣 Discuss'
 
 # Discuss
 
-Stay updated with changes in proposals and engage in meaningful discussions on Discord. Check the general sentiment or "temperature" of votes to gauge community feelings before moving a proposal to Snapshot.
+Once a proposal is published, Nance creates a thread or forum post in your discussion platform of choice (currently supports Discord, more coming soon). This allows other organization members to discuss the proposal and provide feedback to the author. As feedback is provided, the author can refine their proposal accordingly.
 
-* Users can view the differences in edited proposals.
-* They can also engage in discussions on Discord and vote for the temperature checks.
+As edits are made, Nance will update the proposal content in the discussion platform. This allows organization members to see the differences between versions of the proposal.
 
 ![Governance Cycles](/img/discussion-temperaturecheck.png)
