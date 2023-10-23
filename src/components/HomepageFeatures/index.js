@@ -5,6 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Easy to Use',
+    emoji: '👏',
     description: (
       <>
         Nance gives your community a place to create, share, search, discuss, vote,
@@ -14,6 +15,7 @@ const FeatureList = [
   },
   {
     title: 'Keep Everything in Sync',
+    emoji: '🤝',
     description: (
       <>
         Keep everyone informed on the latest proposals and votes. Nance
@@ -23,6 +25,7 @@ const FeatureList = [
   },
   {
     title: 'Powerful Automations',
+    emoji: '🏗️',
     description: (
       <>
         Nance automatically moves proposals through your governance process.
@@ -32,11 +35,12 @@ const FeatureList = [
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({title, emoji, description}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
+        <span className={styles.featureEmoji}>{emoji}</span>
         <p>{description}</p>
       </div>
     </div>
