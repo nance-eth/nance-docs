@@ -92,6 +92,12 @@ const config = {
           },
         ],
       },
+      // run crawler here: https://crawler.algolia.com/
+      algolia: {
+        appId: 'ZVSTV09GF0',
+        apiKey: '4e5af0994bf1f0bd0d2edaffb527a270',
+        indexName: 'nancedocs',
+      },
       footer: {
         style: 'dark',
         links: [
