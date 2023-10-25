@@ -5,9 +5,18 @@ sidebar_label: '🌡️ Temperature Check'
 
 # Temperature Check
 
-Stay updated with changes in proposals and engage in meaningful discussions on Discord. Check the general sentiment or "temperature" of votes to gauge community feelings before moving a proposal to Snapshot.
+In order to gauge the organization's sentiment around the proposals in a Governance Cycle, a _Temperature Check_ is conducted. This is an informal poll conducted through the discussion platform using simple 👍 👎 reactions, allowing members to decide whether a proposal should move to the voting stage. _The number and ratio of positive to negative reactions required to pass Temperature Check is configurable within Nance._
 
-* Users can view the differences in edited proposals.
-* They can also engage in discussions on Discord and vote for the temperature checks.
+When the Temperature Check period begins, Nance will send a rollup message to the discussion platform with a list of all of the proposal that members need to provide feedback on and the time that the Temperature Check will end.
 
-![Governance Cycles](/img/discussion-temperaturecheck.png)
+![Nance temperature check rollup](/img/temperature-check-rollup.png)
+
+---
+
+Once the Temperature Check period has ended, Nance will send a message to each thread with the results of the poll. If the proposal has received enough positive feedback, it will be given a status of _Voting_ and be sent to the next stage of the Governance Cycle. Proposals that did not receive enough positive feedback will be given a status of _Cancelled_, remaining in the Nance system but not moving forward in the Governance Cycle.
+
+![Nance temperature check results](/img/temperature-check-results.png)
+
+Poll results can be restricted by roles within the discussion platform, only allowing for actual organization members to participate in the Temperature Check. For role assignment within your organization's Discord, Nance recommends using [Guild.xyz](https://guild.xyz/create-guild).
+
+Now that we have proposals that have passed Temperature Check, we can move on to [Vote](/docs/basics/vote).

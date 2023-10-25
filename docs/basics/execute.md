@@ -5,9 +5,16 @@ sidebar_label: '✅ Execute'
 
 # Execute
 
-Stay updated with changes in proposals and engage in meaningful discussions on Discord. Check the general sentiment or "temperature" of votes to gauge community feelings before moving a proposal to Snapshot.
+Your organizations Safe signers can now queue an on-chain transaction with actions from _Approved_ proposals. Nance allows you to bundle multiple proposal actions into a single multicall Safe transaction, easing the burden on Safe signers.
 
-* Users can view the differences in edited proposals.
-* They can also engage in discussions on Discord and vote for the temperature checks.
+![Nance queue transactions](/img/placeholder.png)
 
-![Governance Cycles](/img/discussion-temperaturecheck.png)
+---
+
+In addition to token transfers and custom transactions, Nance supports the queuing of a Juicebox project [`reconfigureFundingCyclesOf`](https://docs.juicebox.money/dev/api/contracts/or-controllers/jbcontroller3_1/#reconfigurefundingcyclesof), allowing you to fulfill the request of payouts from your organization's Juicebox project treasury. When queuing, your signers will see a breakdown of the funding cycle configuration changes that will be made.
+
+![Nance queue reconfiguration](/img/placeholder.png)
+
+---
+
+Now that all proposal actions are queued, its time for a period of [Delay](/docs/basics/delay) before the next Governance Cycle begins.

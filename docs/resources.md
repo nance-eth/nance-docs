@@ -12,4 +12,4 @@ sidebar_label: '📌 Resources'
 2. **Juicebox DAO**
     * https://docs.juicebox.money/dao/process
     * basis for the development of Nance
-    * great explaination of cyclical governance process
+    * great explanation of cyclical governance process

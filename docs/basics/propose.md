@@ -19,4 +19,4 @@ When making a proposal, authors can attach _actions_ that will be executed shall
 
 ---
 
-Nance allows authors to save proposals as a _Draft_ (public on the platform) or _Private Draft_ (only they can see) if their ideas are not fully refined yet. Once they are ready to formally submit their proposal, they simply click _Publish_ and the the proposal will be given a _Discussion_ status. Now other organization members can [Discuss](/docs/basics/discuss.md).
+Nance allows authors to save proposals as a _Draft_ (public on the platform) or _Private Draft_ (only they can see) if their ideas are not fully refined yet. Once they are ready to formally submit their proposal, they simply click _Publish_ and the the proposal will be given a _Discussion_ status. Now other organization members can [Discuss](/docs/basics/discuss).

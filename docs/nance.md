@@ -43,4 +43,4 @@ Nance is made up of the following components:
 
 **With these core components, Nance can automate your organization's governance process from start to finish so you focus on higher level tasks.**
 
-Next we'll dig into a key concept know as the [Governance Cycle](/docs/basics/governance-cycle.md).
+Next we'll dig into a key concept know as the [Governance Cycle](/docs/basics/governance-cycle).
