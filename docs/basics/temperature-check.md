@@ -19,4 +19,4 @@ Once the Temperature Check period has ended, Nance will send a message to each t
 
 Poll results can be restricted by roles within the discussion platform, only allowing for actual organization members to participate in the Temperature Check. For role assignment within your organization's Discord, Nance recommends using [Guild.xyz](https://guild.xyz/create-guild).
 
-Now that we have proposals that have passed Temperature Check, we can move on to [Vote](/docs/basics/vote).
+Now that we have proposals that have passed Temperature Check, we can move on to [Vote](/docs/basics/vote.md).

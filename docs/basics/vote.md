@@ -27,4 +27,4 @@ Once the Vote period has ended, Nance will send another rollup message summarizi
 
 ---
 
-Proposals that are _Approved_ are now ready to [Execute](/docs/basics/execute).
+Proposals that are _Approved_ are now ready to [Execute](/docs/basics/execute.md).

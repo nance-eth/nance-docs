@@ -23,4 +23,4 @@ If things change and the author decides against pursuing their proposal, they ca
 
 ![Nance archive discord](/img/archive-discord.png)
 
-Next up we'll jump into the [Temperature Check](/docs/basics/temperature-check) stage of the Governance Cycle.
+Next up we'll jump into the [Temperature Check](/docs/basics/temperature-check.md) stage of the Governance Cycle.

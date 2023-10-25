@@ -17,4 +17,4 @@ In addition to token transfers and custom transactions, Nance supports the queui
 
 ---
 
-Now that all proposal actions are queued, its time for a period of [Delay](/docs/basics/delay) before the next Governance Cycle begins.
+Now that all proposal actions are queued, its time for a period of [Delay](/docs/basics/delay.md) before the next Governance Cycle begins.

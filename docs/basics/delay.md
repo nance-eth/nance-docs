@@ -11,4 +11,4 @@ After this, the process repeats 🔄
 
 ---
 
-This concludes the basic overview of the [Governance Cycle](/docs/basics/governance-cycle) conducted by Nance.
+This concludes the basic overview of the [Governance Cycle](/docs/basics/governance-cycle.md) conducted by Nance.

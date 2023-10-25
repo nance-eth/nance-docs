@@ -45,4 +45,4 @@ D--->A
 
 _Nance recommends a 14 day Governance Cycle, but if your organization needs more or less time for each stage, Nance is configurable to your needs!_
 
-Next we'll walk through the stages that a proposal goes through during a Governance Cycle within the Nance platform starting with [Propose](/docs/basics/propose).
+Next we'll walk through the stages that a proposal goes through during a Governance Cycle within the Nance platform starting with [Propose](/docs/basics/propose.md).
