@@ -50,7 +50,7 @@ const config = {
             'https://github.com/nance-eth/nance-docs/tree/main',
           showLastUpdateTime: true,
           showLastUpdateAuthor: true,
-          sidebarCollapsed: false,
+          sidebarCollapsed: true,
         },
         blog: {
           showReadingTime: true,
@@ -84,7 +84,7 @@ const config = {
             position: 'left',
             label: 'Docs',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: 'https://nance.app', label: 'App', position: 'left'},
           {
             href: 'https://github.com/nance-eth',
             label: 'GitHub',
