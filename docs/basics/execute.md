@@ -11,7 +11,7 @@ Your organizations Safe signers can now queue an on-chain transaction with actio
 
 ---
 
-In addition to token transfers and custom transactions, Nance supports the queuing of a Juicebox project [`reconfigureFundingCyclesOf`](https://docs.juicebox.money/dev/api/contracts/or-controllers/jbcontroller3_1/#reconfigurefundingcyclesof), allowing you to fulfill the request of payouts from your organization's Juicebox project treasury. When queuing, your signers will see a breakdown of the funding cycle configuration changes that will be made.
+In addition to token transfers and custom transactions, Nance supports the queuing of a Juicebox project [`reconfigureFundingCyclesOf`](https://docs.juicebox.money/dev/api/contracts/or-controllers/jbcontroller3_1/#reconfigurefundingcyclesof), allowing you to fulfill the request of payouts from your organization's Juicebox project treasury. When queuing, your Safe signers will see a breakdown of the funding cycle configuration changes that will be made.
 
 ![Nance queue reconfiguration](/img/placeholder.png)
 

@@ -50,14 +50,7 @@ const config = {
             'https://github.com/nance-eth/nance-docs/tree/main',
           showLastUpdateTime: true,
           showLastUpdateAuthor: true,
-          sidebarCollapsed: false,
-        },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          sidebarCollapsed: true,
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -84,7 +77,7 @@ const config = {
             position: 'left',
             label: 'Docs',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: 'https://nance.app', label: 'App', position: 'left'},
           {
             href: 'https://github.com/nance-eth',
             label: 'GitHub',
@@ -124,19 +117,6 @@ const config = {
               {
                 label: 'Twitter',
                 href: 'https://twitter.com/nance_app',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/nance-eth/nance-docs',
               },
             ],
           },

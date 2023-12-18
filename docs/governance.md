@@ -5,26 +5,26 @@ sidebar_label: '🏛️ Governance'
 
 # What is Governance?
 
-Governance is a process or procedure that outputs a decision.
+Governance is a process or procedure that leads to a decision.
 
 Some examples of organizations with governance processes are:
-countries, corporations, and [DAOs](https://ethereum.org/en/dao/). In order for organizations to adapt and change (hopefully for the better) they must formulate ideas and decide which concepts to actualize.
+countries, corporations, and [DAOs](https://ethereum.org/en/dao/). In order for organizations to adapt and change (hopefully for the better) they must formulate ideas and decide which concepts to implement.
 
 Each organization has a different method of **proposing, discussing, voting,** and **executing** a decision.
 
 ## How DAOs Govern
 
-Briefly, DAOs are member owned organizations (think co-op) with membership typically based upon ownership of the DAOs dedicated fungible (ERC-20) or non-fungible (ERC-721/1155) token.
-Any member can formulate an idea and ask the others to vote on it *(Note: some DAOs have a minimum number of tokens that a member must have in order to bring an idea up to a vote)*. 
+Briefly, DAOs are member owned organizations (similar to a co-op) with membership typically based upon ownership of the DAOs dedicated [ERC-20 or ERC-721 token](https://ethereum.org/en/developers/docs/standards/tokens/).
+Any member can formulate an idea and the others to vote on it in a transparent and auditable way.
 
-Each DAO has a different procedure to turn an idea into reality but typically they follow these stages of governance:
+Each DAO has a different process to turn an idea into reality but typically they follow these stages of governance:
 
 ```mermaid
 graph LR
 	0(idea)-->1(proposal)-->2(discussion)-->3(vote)-->4(execution) 
 ```
 
-Governance facilitators shuffle data between each stage and ensure that the DAO procedure is being followed properly. Each phase in the governance process has different requirements, therefore each phase lends itself to different platforms:
+Governance facilitators shuffle data between each stage and ensure that the DAO's procedure is being followed. Each phase of the governance process has different requirements, therefore each phase lends itself to different platforms:
 
 | Governance Stage |        Attributes        |            Suitable Platforms             |
 | :--------------: | :----------------------: | :---------------------------------------: |
