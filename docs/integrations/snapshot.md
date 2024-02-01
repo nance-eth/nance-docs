@@ -5,6 +5,7 @@ sidebar_label: '🫰 Snapshot'
 
 # Snapshot
 
+## Auto Setup
 Nance can publish proposals to your Snapshot space. The easiest way to set this up is during space creation:
 
 ![Snapshot space creation](/img/connect-snapshot.png)
@@ -18,7 +19,7 @@ the changes to the Snapshot API.
 The address that Nance uses to author posts is `0x50e70c43a5dd812e2309eacea61348041011b4ba` aka `gnance.eth`
 
 ---
-
+## Manual Setup
 If you need to add Nance as an author manually follow these steps:
 
 1. Go to your space settings
