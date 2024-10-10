@@ -23,7 +23,7 @@ Many organizations require a minimum number of members to participate in a vote 
 
 Once the Vote period has ended, Nance will send another rollup message summarizing the vote results of the Governance Cycle. Nance allows you to configure complex proposal passing requirements such as a [Supermajority](https://en.wikipedia.org/wiki/Supermajority), [Unanimity](https://en.wikipedia.org/wiki/Unanimity), or other thresholds. Proposals that pass these requirements will be given a status of _Approved_ while those that do not will be given a status of _Cancelled_.
 
-![Nance vote results](/img/placeholder.png)
+![Nance vote results](/img/voteResults-rollup.png)
 
 ---
 
