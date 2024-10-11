@@ -5,15 +5,17 @@ sidebar_label: '✅ Execute'
 
 # Execute
 
-Your organizations Safe signers can now queue an on-chain transaction with actions from _Approved_ proposals. Nance allows you to bundle multiple proposal actions into a single multicall Safe transaction, easing the burden on Safe signers.
+Your organization's Safe signers can now queue an on-chain transactions and transfers with actions from _Approved_ proposals. Nance allows you to bundle multiple proposal actions into a single multicall Safe transaction, easing the burden on Safe signers.
 
-![Nance queue transactions](/img/placeholder.png)
+![Nance queue transactions](/img/execute-transactions.png)
+
+Nance also supports the enabling of `Refund gas` mode which will automatically reimburse whoever executes the Safe transaction. **No more endless cycles of reimbursing your members!**
 
 ---
 
 In addition to token transfers and custom transactions, Nance supports the queuing of a Juicebox project [`reconfigureFundingCyclesOf`](https://docs.juicebox.money/dev/api/contracts/or-controllers/jbcontroller3_1/#reconfigurefundingcyclesof), allowing you to fulfill the request of payouts from your organization's Juicebox project treasury. When queuing, your Safe signers will see a breakdown of the funding cycle configuration changes that will be made.
 
-![Nance queue reconfiguration](/img/placeholder.png)
+![Nance queue reconfiguration](/img/execute-reconfig.png)
 
 ---
 

@@ -10,7 +10,7 @@ quickly become overwhelmed with the number of platforms and tools required to ma
 
 Nance solves this problem by creating a systematic, repeatable, and timely approach to an organization's governance process.
 
-Nance integrates with the tools DAOs are already using such as [Discord](/docs/integrations/discord.md), [Snapshot](/docs/integrations/snapshot.md), [Safe](/docs/integrations/safe.md), and [Juicebox](/docs/integrations/juicebox.md) Nance provides a streamlined governance experience for your community.
+Nance integrates with the tools DAOs are already using such as Discord, Snapshot, Safe, and Juicebox Nance provides a streamlined governance experience for your community.
 
 No more copy-pasting proposal content between platforms! No more asking for wallet addresses! No more manually executing proposals!
 
