@@ -29,10 +29,10 @@ D--->A
     * organization members provide feedback on proposal content
     * proposal authors can refine their proposal
     * simple 👍 👎 poll is taken (typically in Discord)
-    * proposals that achieve a configurable threshold of positive feedback by the end of this stage are moved to the Vote stage 
+    * proposals that achieve a configurable threshold of positive feedback by the end of this stage are moved to the Vote stage
 2. **Vote** _(suggestion: 4 days)_
     * organization members vote on proposals, typically using their token-weighted voting power
-    * off-chain signature voting backed by [Snapshot](/docs/integrations/snapshot.md)
+    * off-chain signature voting backed by Snapshot
     * proposals that achieve a certain threshold of positive votes are moved to the Execution stage
     * _Nance supports complex passing thresholds in addition to simple majority_
 3. **Execution** _(suggestion: 4 days)_
